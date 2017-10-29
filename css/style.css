@@ -1,0 +1,46 @@
+/*
+Grigoria Michail
+EPL425-HM2
+*/
+.quote1 {
+  font-family: Harrington,serif;
+  font-size: 32pt;
+  color: #A4A400;
+  text-align: center;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.quote2 {
+  font-family: Segoe Print,serif;
+  font-size: 20pt;
+  color: #A4A400;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.quote3 {
+  font-family: Segoe Print,serif;
+  font-size: 16pt;
+  color: #A4A400;
+  text-align: left;
+}
+
+.quote4 {
+  font-family: Segoe Print,serif;
+  font-size: 14pt;
+  color: #A4A400;
+  text-align: center;
+}
+
+a {
+  color: #A4A400;
+}
+
+.img1 {
+  float: right;
+}
+
+.img2 {
+  float: left;
+}
